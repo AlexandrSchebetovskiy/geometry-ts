@@ -1,4 +1,4 @@
-import IFigure from './interfaces/figure.interface';
+import IFigure from '../interfaces/figure.interface';
 export default class Rectangle implements IFigure {
     type: string;
     sideA: number;

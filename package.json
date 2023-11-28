@@ -11,7 +11,8 @@
     "tslint": "tslint -p tslint -p tsconfig.json",
     "codestyle": "npm run prettier && npm run tslint"
   },
-  "author": "",
+  "author": "AlexandrSchebetovskiy",
+  "repository": "AlexandrSchebetovskiy/geometry-ts",
   "license": "ISC",
   "devDependencies": {
     "husky": "^8.0.3",
